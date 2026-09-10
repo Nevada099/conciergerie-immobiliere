@@ -13,20 +13,22 @@ Produire un visuel **AVANT → APRÈS** qui prouve la rénovation tous corps d'�
 - **Vidéo finie** : `bourdonnais-dernier-version.m4v` (1 min 36, silencieuse).
 - **Portfolio déjà monté** (référence utile, pas la source finale) : `Rénovation/Renovation.pdf` (12 p., co-brandé MMD × Collection Privée) et `Rénovation/Dossier de renovation.pdf` (9 p., même contenu en version Collection Privée seule) — les deux contiennent déjà les paires avant/après par pièce avec légendes ; s'en servir pour **confirmer** les appariements ci-dessous, pas pour les redécouvrir.
 
-> ⚠️ Les photos ne sont **pas numérotées par pièce** (noms génériques `bourdonais97-N.jpg` / `hd (N).jpg`) → l'appariement ci-dessous est **proposé par identification visuelle** (angle de fenêtre, moulures, vue balcon) et **à confirmer** au montage, comme pour 17 CDM.
+> ✅ **Mise à jour du 10 sept. (soir) : appariement vérifié photo par photo** (les 12 avant + les 17 après ont été ouvertes une par une) et **copié dans un nouveau dossier Dropbox** : `/COLLECTION PRIVEE/4. Mandats/97, Avenue de la Bourdonnais/AVANT-APRES TRIE/` (fichiers renommés `<Pièce>-avant.jpg` / `<Pièce>-apres.jpg`, voir `LISEZ-MOI.txt` dans ce dossier). Le tableau ci-dessous reflète ce qui a été confirmé visuellement, pas une simple hypothèse.
 
-## ✅ Sélection des paires (proposée — 10 sept.)
+## ✅ Sélection des paires (vérifiée le 10 sept.)
 
-| Paire | AVANT (`hd`) | APRÈS (`edited 97bourd day`) | Confiance | Narration |
+| Paire | AVANT (`hd`) | APRÈS (`edited 97bourd day`) | Confiance | Repère de reconnaissance |
 |---|---|---|---|---|
-| **Vue balcon / Tour Eiffel** | `hd (12).jpg` (balcon nu, ferronnerie, vue toits + Tour Eiffel) | `bourdonais97-12.JPG` (même angle exact, balcon fini) | 🟢 **forte** — cadrage identique | « Une vue qui ne change pas. Tout le reste, si. » |
-| **Cuisine** | `hd-(5).jpg` (cuisine brute, murs blancs nus) | `bourdonais97-13.JPG` (cuisine bleu-marine équipée — légende PDF : « Cuisine Bleu-marine va accueillir toute la famille ») | 🟢 forte | « On reprend tout, jusqu'au dernier tiroir. » |
-| **Salle de bains** | `hd (6).jpg` (baignoire ancienne, carrelage usé) | `bourdonais97-11.JPG` (douche marbre, robinetterie dorée) | 🟡 moyenne — même pièce probable, à confirmer | « On reprend tout. » |
-| **Entrée** | `hd (10).jpg` (couloir/entrée brute, moulures, vue balcon au fond) | `bourdonais97-10.JPG` (entrée meublée, console, miroirs dorés — 1er plan de la vidéo) | 🟡 moyenne | — |
-| **Suite parentale** | `hd (1).jpg` (chambre brute, pan de mur rouge, radiateur) | `bourdonais97-15.JPG` (chambre finie, tête de lit, appliques dorées — légende PDF : « Bienvenue à la suite parentale ») | 🟡 moyenne — à confirmer sur les photos HD (fenêtre/radiateur) | « Chacun son espace. » |
-| **Salon** *(option)* | `hd (9).jpg` (pièce brute, cheminée visible, rideaux jaunes) | *(pas dans le dossier Dropbox — voir `Renovation.pdf` p.4, « Un Salon chaleureux avec cheminée décorative » : après-photo exclusive au PDF)* | 🟡 moyenne | « Le cœur de la maison. » |
+| **Salon (cheminée)** | `hd (10).jpg` | `bourdonais97-9.JPG` | 🟢 **confirmée** | Même alcôve à étagères + cheminée ; le tableau « La Grande Vague » est accroché au même endroit après travaux. |
+| **Vue balcon / Tour Eiffel** | `hd (12).jpg` | `bourdonais97-12.JPG` | 🟢 **confirmée** | Cadrage et ferronnerie identiques. |
+| **Cuisine** | `hd-(5).jpg` | `bourdonais97-13.JPG` | 🟢 **confirmée** | Légende PDF « Cuisine Bleu-marine » ; même fenêtre. |
+| **Salle de bains** | `hd (6).jpg` (baignoire ancienne) | `bourdonais97-3.JPG` (douche + double vasque) | 🟢 confirmée | Même volume de pièce, baignoire remplacée par douche. |
+| **Suite parentale** | `hd (4).jpg` (chambre papier peint toile de Jouy, avec sa petite salle d'eau visible en arrière-plan) | `bourdonais97-15.JPG` | 🟢 confirmée | Légende PDF « Bienvenue à la suite parentale ». |
+| **Entrée** | *(aucune photo avant disponible dans `hd`/`sd`)* | `bourdonais97-10.JPG` (console, miroirs dorés — 1er plan de la vidéo) | ⚪ après seulement | — |
+| **Chambre (rideaux bleus)** | `hd (7).jpg` / `hd (8).jpg` | *(pas identifiée avec certitude dans le dossier après)* | 🟡 avant seulement, à confirmer | Chambre à placards muraux, rideaux fleuris bleus. |
+| **Chambre (pan de mur rouge)** | `hd (1).jpg` / `hd (2).jpg` | *(pas identifiée avec certitude dans le dossier après)* | 🟡 avant seulement, à confirmer | Chambre avec placard-miroir et niche peinte en rouge. |
 
-*(4 à 6 paires, comme pour 17 CDM — largement suffisant pour un collage ou un carrousel.)*
+*(5 paires confirmées + 2 avant orphelines + 1 après orpheline = les 12 avant et les photos après clés sont toutes couvertes. Largement suffisant pour un collage ou un carrousel.)*
 
 ## 🎨 Formats à produire
 1. **Collage image (grille avant/après)** — 2 colonnes (Avant | Après), 1 visuel par pièce, format carré 1080×1080 ou 4:5.
