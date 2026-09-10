@@ -29,10 +29,11 @@
 |---|---|---|---|---|
 | **17 Champ-de-Mars** | 🔵 complet | ✅ `10` (anonymisée) | ✅ `10` (FR) | ✅ rédigé — reste : choisir hook + monter le carrousel |
 | **17 rue de la Comète** | 🔵 complet | ✅ `12` (anonymisée) | ⬜ à faire | fait — reste post JTBD + langue |
+| **97 av de la Bourdonnais** | 🟢 partiel (vente + réno, sans location) | ✅ `15` (anonymisée) | ✅ `15` (FR) | 🟡 rédigé — reste : valider avec Katerina (crédit MMD ?) + confirmer les paires avant/après (`16`) + monter le carrousel |
 | 5 rue Mornay 75004 | 🟢 partiel | ⬜ à faire | ⬜ | photos réno à finaliser |
 | 5 rue Mornay 18 m² | 🟢 partiel | ⬜ à faire | ⬜ | — |
 | 9 passage de l'Union | 🟢 partiel | ⬜ à faire | ⬜ | — |
-| Rue du Laos · Pérignon · Bourdonnais · Rue Pascal | 🟢/🔗 | ⬜ (plus tard) | ⬜ | — |
+| Rue du Laos · Pérignon · Rue Pascal | 🟢/🔗 | ⬜ (plus tard) | ⬜ | — |
 
 ## 3. Posts réseaux (Instagram / LinkedIn)
 
@@ -42,6 +43,7 @@
 |---|---|---|---|
 | 17 CDM — « Que faire de votre bien ? » | Carrousel 8 slides avant/après | 🟡 **texte prêt** (`10`, FR) · hook A validé · plan collage (`13`) | à produire : visuels (collage avant/après) |
 | Comète — « Savoir ne pas brader » | Carrousel 7 slides | 🟡 **texte prêt** (`12`, FR) | version publique + JTBD validées · reste : choix hook + visuels |
+| Bourdonnais — « Jusqu'aux clés en main » | Carrousel 7-8 slides avant/après | 🟡 **texte prêt** (`15`, FR) · plan collage (`16`) | reste : validation Katerina + visuels + décision PDF/vidéo |
 | Série « Les 4 options que peu de propriétaires connaissent » | Carrousel pédagogique | ⬜ idée | issu de `07` (scénarios JTBD) |
 
 ## 4. Articles Journal (SEO) — sujets à déterminer selon l'actualité
